@@ -2,7 +2,4 @@
 
 QR Code Generator: Add QR codes to your web page with this static component based on HTML and CSS
 
-The designs were created to the following widths:
-
--  Mobile: 375px
--  Desktop: 1440px
+Link: https://qr-code-component-two-sand.vercel.app/
